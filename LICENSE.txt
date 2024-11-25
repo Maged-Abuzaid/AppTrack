@@ -1,0 +1,12 @@
+Copyright (c) 2024, Maged Abuzaid
+
+All rights reserved.
+
+Permission is hereby granted to any person obtaining a copy of this software to use and modify it for personal, non-commercial purposes, provided the following conditions are met:
+
+1. The software, or any portions thereof, may not be copied, distributed, or sublicensed.
+2. Modifications may not be shared, distributed, or sublicensed under any circumstances.
+3. Credit must be given to the original author(s), and the software must not be misrepresented as someone else's work.
+4. This software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement. In no event shall the author(s) be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the software or the use or other dealings in the software.
+
+By using this software, you agree to these terms.
